@@ -9,24 +9,21 @@ MATH5881/3881 develops the statistical and mathematical theory underpinning mode
 ## Weekly Topics
 
 - **Week 0**: Basics of Linear Algebra, Calculus, and Probability
-  - 📝 [Calculus](./lectures/MATH5881_Lec_0_Calculus.pdf) | 📝 [Linear Algebra](./lectures/MATH5881_Lec_0_LinearAlgebra.pdf) | 📝 [Probability](./lectures/MATH5881_Lec_0_Probability.pdf) | 📖 [Python Basics](./notebooks/week00)
+  - 📝 <a href="./lectures/MATH5881_Lec_0_Calculus.pdf" target="_blank" rel="noopener">Calculus</a> | 📝 <a href="./lectures/MATH5881_Lec_0_LinearAlgebra.pdf" target="_blank" rel="noopener">Linear Algebra</a> | 📝 <a href="./lectures/MATH5881_Lec_0_Probability.pdf" target="_blank" rel="noopener">Probability</a> | 📖 Python Basics
 - **Week 1**: Foundations of Supervised Learning
-  - 📝 [Lecture Notes](./lectures/) | 📖 [Exercises](./notebooks/week01) | 🎓 [Tutorial](./tutorials/week01)
+  - 📝 Lecture Notes | 📖 Exercises | 🎓 Tutorial
 - **Week 2**: Feedforward Neural Networks
-  - 📝 [Lecture Notes](./lectures/) | 📖 [Exercises](./notebooks/week02) | 🎓 [Tutorial](./tutorials/week02)
+  - 📝 Lecture Notes | 📖 Exercises | 🎓 Tutorial
 - **Week 3**: Optimisation, Computational Graphs, and Backpropagation
-  - 📝 [Lecture Notes](./lectures/) | 📖 [Exercises](./notebooks/week03) | 🎓 [Tutorial](./tutorials/week03)
+  - 📝 Lecture Notes | 📖 Exercises | 🎓 Tutorial
 - **Week 4**: Stochastic Gradient Descent and Adaptive Optimisers
-  - 📝 [Lecture Notes](./lectures/) | 📖 [Exercises](./notebooks/week04) | 🎓 [Tutorial](./tutorials/week04)
+  - 📝 Lecture Notes | 📖 Exercises | 🎓 Tutorial
 - **Week 5**: Convolutional Neural Networks
-  - 📝 [Lecture Notes](./lectures/) | 📖 [Exercises](./notebooks/week05) | 🎓 [Tutorial](./tutorials/week05)
+  - 📝 Lecture Notes | 📖 Exercises | 🎓 Tutorial
 
 - **Week 6**: Break (no lectures)
 
-- **Week 7**: *Coming soon — link forthcoming (taught by Sahani)*
-- **Week 8**: *Coming soon — link forthcoming (taught by Sahani)*
-- **Week 9**: *Coming soon — link forthcoming (taught by Sahani)*
-- **Week 10**: *Coming soon — link forthcoming (taught by Sahani)*
+- **Weeks 7 - 10**: *Coming soon (taught by Sahani)*
 
 ## Repository Contents
 
@@ -53,4 +50,4 @@ jupyter-notebook &
 
 ## Feedback
 
-Got feedback? Let me know at [s.moka@unsw.edu.au](mailto:s.moka@unsw.edu.au) – I'd love to hear from you!
+Got feedback? Let me know at <a href="mailto:s.moka@unsw.edu.au" target="_blank" rel="noopener">s.moka@unsw.edu.au</a> – I'd love to hear from you!
