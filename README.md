@@ -1,15 +1,15 @@
-# MATH5881/3881: Statistical Machine Learning Theory
+# MATH3881/5881: Statistical Machine Learning Theory
 
-This repository contains lecture notes, Jupyter notebooks, and related materials for the course **MATH5881/3881 - Statistical Machine Learning Theory** offered at **UNSW**.
+This repository contains lecture notes, Jupyter notebooks, and related materials for the course **MATH3881/5881 - Statistical Machine Learning Theory** offered at **UNSW**.
 
 ## Course Overview
 
-MATH5881/3881 develops the statistical and mathematical theory underpinning modern machine learning, alongside the algorithms and techniques used in practice.
+MATH3881/5881 develops the statistical and mathematical theory underpinning modern machine learning, alongside the algorithms and techniques used in practice.
 
 ## Weekly Topics
 
 - **Week 0**: Basics of Linear Algebra, Calculus, and Probability
-  - 📝 <a href="./lectures/MATH5881_Lec_0_Calculus.pdf" target="_blank" rel="noopener">Calculus</a> | 📝 <a href="./lectures/MATH5881_Lec_0_LinearAlgebra.pdf" target="_blank" rel="noopener">Linear Algebra</a> | 📝 <a href="./lectures/MATH5881_Lec_0_Probability.pdf" target="_blank" rel="noopener">Probability</a> | 📖 <a href="./notebooks/week00" target="_blank" rel="noopener">Python Basics</a>
+  - 📝 <a href="./lectures/MATH3881-5881_Lec_0_Calculus.pdf" target="_blank" rel="noopener">Calculus</a> | 📝 <a href="./lectures/MATH3881-5881_Lec_0_LinearAlgebra.pdf" target="_blank" rel="noopener">Linear Algebra</a> | 📝 <a href="./lectures/MATH3881-5881_Lec_0_Probability.pdf" target="_blank" rel="noopener">Probability</a> | 📖 <a href="./notebooks/week00" target="_blank" rel="noopener">Python Basics</a>
 - **Week 1**: Foundations of Supervised Learning
   - 📝 Lecture Notes | 📖 Exercises | 🎓 Tutorial
 - **Week 2**: Feedforward Neural Networks
@@ -43,8 +43,8 @@ To run the notebooks:
 Alternatively,
 
 ```bash
-git clone https://github.com/saratmoka/MATH5881-3881.git
-cd MATH5881-3881
+git clone https://github.com/saratmoka/MATH3881-5881.git
+cd MATH3881-5881
 jupyter-notebook &
 ```
 
