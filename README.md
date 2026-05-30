@@ -13,15 +13,15 @@ MATH3881/5881 develops the statistical and mathematical theory underpinning mode
 - **Week 0**: Basics of Linear Algebra, Calculus, and Probability
   - 📝 <a href="./lectures/MATH3881-5881_Lec_0_Calculus.pdf" target="_blank" rel="noopener">Calculus</a> | 📝 <a href="./lectures/MATH3881-5881_Lec_0_LinearAlgebra.pdf" target="_blank" rel="noopener">Linear Algebra</a> | 📝 <a href="./lectures/MATH3881-5881_Lec_0_Probability.pdf" target="_blank" rel="noopener">Probability</a> | 📖 <a href="./notebooks/week00" target="_blank" rel="noopener">Python Basics</a>
 - **Week 1**: Foundations of Supervised Learning
-  - 📝 <a href="./lectures/MATH3881-5881_Lec_1_Foundations_of_Supervised_Learning.pdf" target="_blank" rel="noopener">Lecture Notes</a> | 🎓 <a href="./tutorials/week01/Week1_Theory_Tutorial.pdf" target="_blank" rel="noopener">Theory Tutorial</a> | 💻 Practice Tutorial
+  - 📝 <a href="./lectures/MATH3881-5881_Lec_1_Foundations_of_Supervised_Learning.pdf" target="_blank" rel="noopener">Lecture Notes</a> | 🎓 <a href="./tutorials/week01/Week1_Theory_Tutorial.pdf" target="_blank" rel="noopener">Theory Tutorial</a> | ✅ Theory Solutions | 💻 Practice Tutorial | ✅ Practice Solutions
 - **Week 2**: Feedforward Neural Networks
-  - 📝 Lecture Notes | 🎓 Theory Tutorial | 💻 Practice Tutorial
+  - 📝 Lecture Notes | 🎓 Theory Tutorial | ✅ Theory Solutions | 💻 Practice Tutorial | ✅ Practice Solutions
 - **Week 3**: Optimisation, Computational Graphs, and Backpropagation
-  - 📝 Lecture Notes | 🎓 Theory Tutorial | 💻 Practice Tutorial
+  - 📝 Lecture Notes | 🎓 Theory Tutorial | ✅ Theory Solutions | 💻 Practice Tutorial | ✅ Practice Solutions
 - **Week 4**: Stochastic Gradient Descent and Adaptive Optimisers
-  - 📝 Lecture Notes | 🎓 Theory Tutorial | 💻 Practice Tutorial
+  - 📝 Lecture Notes | 🎓 Theory Tutorial | ✅ Theory Solutions | 💻 Practice Tutorial | ✅ Practice Solutions
 - **Week 5**: Convolutional Neural Networks
-  - 📝 Lecture Notes | 🎓 Theory Tutorial | 💻 Practice Tutorial
+  - 📝 Lecture Notes | 🎓 Theory Tutorial | ✅ Theory Solutions | 💻 Practice Tutorial | ✅ Practice Solutions
 
 - **Week 6**: Break (no lectures)
 
