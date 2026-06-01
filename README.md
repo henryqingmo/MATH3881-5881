@@ -11,10 +11,10 @@ MATH3881/5881 develops the statistical and mathematical theory underpinning mode
 > *Each week's tutorial has two parts: a **Theory Tutorial** (pen-and-paper, PDF) and a **Practice Tutorial** (Jupyter notebook, designed to run in Google Colab). Solutions for both are released about a week after the tutorial session.*
 
 - **Week 0**: Basics of Linear Algebra, Calculus, and Probability
-  - 📝 <a href="./lectures/MATH3881-5881_Lec_0_Calculus.pdf" target="_blank" rel="noopener">Calculus</a> | 📝 <a href="./lectures/MATH3881-5881_Lec_0_LinearAlgebra.pdf" target="_blank" rel="noopener">Linear Algebra</a> | 📝 <a href="./lectures/MATH3881-5881_Lec_0_Probability.pdf" target="_blank" rel="noopener">Probability</a> | 📖 <a href="./notebooks/week00" target="_blank" rel="noopener">Python Basics</a>
+  - 📝 <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/lectures/MATH3881-5881_Lec_0_Calculus.pdf" target="_blank" rel="noopener">Calculus</a> | 📝 <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/lectures/MATH3881-5881_Lec_0_LinearAlgebra.pdf" target="_blank" rel="noopener">Linear Algebra</a> | 📝 <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/lectures/MATH3881-5881_Lec_0_Probability.pdf" target="_blank" rel="noopener">Probability</a> | 📖 <a href="./notebooks/week00" target="_blank" rel="noopener">Python Basics</a>
 - **Week 1**: Foundations of Supervised Learning
-  - 📝 <a href="./lectures/MATH3881-5881_Lec_1_Foundations_of_Supervised_Learning.pdf" target="_blank" rel="noopener">Lecture Notes</a>
-  - 🎓 <a href="./tutorials/week01/Week1_Theory_Tutorial.pdf" target="_blank" rel="noopener">Theory Tutorial</a> | 💻 <a href="https://colab.research.google.com/github/saratmoka/MATH3881-5881/blob/main/tutorials/week01/Week1_Practice_Tutorial.ipynb" target="_blank" rel="noopener">Practice Tutorial</a>
+  - 📝 <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/lectures/MATH3881-5881_Lec_1_Foundations_of_Supervised_Learning.pdf" target="_blank" rel="noopener">Lecture Notes</a>
+  - 🎓 <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/tutorials/week01/Week1_Theory_Tutorial.pdf" target="_blank" rel="noopener">Theory Tutorial</a> | 💻 <a href="https://colab.research.google.com/github/saratmoka/MATH3881-5881/blob/main/tutorials/week01/Week1_Practice_Tutorial.ipynb" target="_blank" rel="noopener">Practice Tutorial</a>
   - ✅ Theory Solutions | ✅ Practice Solutions
 - **Week 2**: Feedforward Neural Networks
   - 📝 Lecture Notes
