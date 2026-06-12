@@ -22,9 +22,10 @@ MATH3881/5881 develops the statistical and mathematical theory underpinning mode
   - 🎓 <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/tutorials/week02/Week2_Theory_Tutorial.pdf" target="_blank" rel="noopener">Theory Tutorial</a> | 💻 <a href="https://colab.research.google.com/github/saratmoka/MATH3881-5881/blob/main/tutorials/week02/Week2_Practice_Tutorial.ipynb" target="_blank" rel="noopener">Practice Tutorial</a>
   - ✅ Exercise Solutions | ✅ Theory Tutorial Solutions | ✅ Practice Tutorial Solutions
 - **Week 3**: Optimisation, Computational Graphs, and Backpropagation
-  - 📝 Lecture Notes
+  - 📝 <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/lectures/MATH3881-5881_Lec_3_Optimisation_in_Machine_Learning_Foundations.pdf" target="_blank" rel="noopener">Lecture Notes</a>
   - 🎓 Theory Tutorial | 💻 Practice Tutorial
   - ✅ Exercise Solutions | ✅ Theory Tutorial Solutions | ✅ Practice Tutorial Solutions
+  - 📑 <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/lectures/MATH3881-5881_Lec_3_Supplement.pdf" target="_blank" rel="noopener">Supplement (optional): Convergence Proofs and Convexity of ML Models</a>
 - **Week 4**: Stochastic Gradient Descent and Adaptive Optimisers
   - 📝 Lecture Notes
   - 🎓 Theory Tutorial | 💻 Practice Tutorial
