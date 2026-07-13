@@ -39,7 +39,7 @@ MATH3881/5881 develops the statistical and mathematical theory underpinning mode
 
 - **Week 6**: Break (no lectures)
 
-- **Weeks 7 - 10**: *Coming soon (taught by Sahani)*
+- **Weeks 7 - 10**: *Check the course's Moodle page (taught by Sahani)*
 
 ## Repository Contents
 
